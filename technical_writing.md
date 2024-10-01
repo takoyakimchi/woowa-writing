@@ -238,7 +238,7 @@ HTML 파일도 위와 같이 작성한다.
 
 두 개의 서로 다른 탭에서 http://localhost:8080/에 접속한 뒤, Connect를 누르고 메시지를 전송해 본다. 채팅 메시지가 서로 실시간으로 반영되는 것을 확인할 수 있다.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/3c029d83-a035-4bd5-9576-845f6c344bc8/d491a45f-0fe0-46bb-bc3e-013ce9e01083/image.png)
+![웹소켓 테스트 이미지](image/websocket.png)
 
 # 예외 처리 추가하기
 
